@@ -1,0 +1,222 @@
+[
+  {
+    "picture": "http://placehold.it/32x32", 
+    "about": "Laborum proident enim consequat ullamco do fugiat veniam duis occaecat nulla eu do eu sunt. Exercitation ad in laboris sit commodo aliquip commodo irure eiusmod id quis aute. Aute irure est culpa irure eiusmod id in ad amet. Qui esse aliquip elit eu cupidatat veniam reprehenderit.\r\n", 
+    "guid": "c4f1636c-1f33-4cf6-ad8e-b372cf292d3a", 
+    "name": "Shana Boyle", 
+    "tags": [
+      "exercitation", 
+      "nostrud", 
+      "sit", 
+      "exercitation", 
+      "est", 
+      "sit", 
+      "excepteur"
+    ], 
+    "gender": "female", 
+    "age": 27, 
+    "friends": [
+      {
+        "id": 0, 
+        "name": "Ramirez Wooten"
+      }, 
+      {
+        "id": 1, 
+        "name": "Chris Romero"
+      }, 
+      {
+        "id": 2, 
+        "name": "Miriam Pugh"
+      }
+    ], 
+    "registered": "2014-06-10T00:18:12 -01:00", 
+    "greeting": "Hello, Shana Boyle! You have 4 unread messages.", 
+    "longitude": 72.508127999999999, 
+    "email": "shanaboyle@globoil.com", 
+    "eyeColor": "brown", 
+    "phone": "+1 (858) 529-3232", 
+    "address": "366 Duryea Place, Ahwahnee, Pennsylvania, 2531", 
+    "latitude": 84.292312999999993, 
+    "favoriteFruit": "strawberry", 
+    "balance": "$3,003.97", 
+    "company": "GLOBOIL", 
+    "id": 0, 
+    "isActive": true
+  }, 
+  {
+    "picture": "http://placehold.it/32x32", 
+    "about": "Id ex consectetur non excepteur irure incididunt ea eu irure fugiat quis minim exercitation ut. Culpa laboris mollit sint non amet ullamco. Dolor irure mollit pariatur laboris cillum esse sint amet aliqua. Occaecat fugiat sunt commodo cillum reprehenderit pariatur ad in magna. Consequat aute ea ipsum in proident.\r\n", 
+    "guid": "0010bb1e-d4f7-4f24-9bad-fef23b5b4b02", 
+    "name": "Osborne Rosa", 
+    "tags": [
+      "dolor", 
+      "duis", 
+      "id", 
+      "Lorem", 
+      "in", 
+      "sunt", 
+      "cupidatat"
+    ], 
+    "gender": "male", 
+    "age": 38, 
+    "friends": [
+      {
+        "id": 0, 
+        "name": "Aida Haney"
+      }, 
+      {
+        "id": 1, 
+        "name": "Dorsey Livingston"
+      }, 
+      {
+        "id": 2, 
+        "name": "Washington Marks"
+      }
+    ], 
+    "registered": "2014-06-04T18:55:55 -01:00", 
+    "greeting": "Hello, Osborne Rosa! You have 4 unread messages.", 
+    "longitude": -109.867029, 
+    "email": "osbornerosa@newcube.com", 
+    "eyeColor": "blue", 
+    "phone": "+1 (993) 475-2218", 
+    "address": "271 Albee Square, Florence, Michigan, 5527", 
+    "latitude": 27.119781, 
+    "favoriteFruit": "apple", 
+    "balance": "$3,688.72", 
+    "company": "NEWCUBE", 
+    "id": 1, 
+    "isActive": false
+  }, 
+  {
+    "picture": "http://placehold.it/32x32", 
+    "about": "Aliquip qui consequat nulla magna ea aute aliqua ex ipsum ullamco sint. Sint et ullamco aute quis pariatur eiusmod tempor reprehenderit et dolore aliqua non. Irure pariatur eiusmod minim et ullamco et velit ex duis veniam ipsum aliqua. Mollit ad fugiat voluptate ad eu et aute eu ea duis ea in et ea.\r\n", 
+    "guid": "72b4e81f-fde0-4225-8281-247cbc94df42", 
+    "name": "Ester Meyers", 
+    "tags": [
+      "labore", 
+      "do", 
+      "sit", 
+      "fugiat", 
+      "nulla", 
+      "ad", 
+      "elit"
+    ], 
+    "gender": "female", 
+    "age": 20, 
+    "friends": [
+      {
+        "id": 0, 
+        "name": "Mack Anthony"
+      }, 
+      {
+        "id": 1, 
+        "name": "Hooper Patton"
+      }, 
+      {
+        "id": 2, 
+        "name": "Phoebe Hicks"
+      }
+    ], 
+    "registered": "2014-01-18T07:47:53 -00:00", 
+    "greeting": "Hello, Ester Meyers! You have 2 unread messages.", 
+    "longitude": -172.26503500000001, 
+    "email": "estermeyers@datagene.com", 
+    "eyeColor": "green", 
+    "phone": "+1 (865) 459-2684", 
+    "address": "297 Poplar Street, Winchester, South Carolina, 5539", 
+    "latitude": 66.906542000000002, 
+    "favoriteFruit": "strawberry", 
+    "balance": "$2,773.14", 
+    "company": "DATAGENE", 
+    "id": 2, 
+    "isActive": true
+  }, 
+  {
+    "picture": "http://placehold.it/32x32", 
+    "about": "Est aliqua minim adipisicing quis cillum consectetur consectetur esse occaecat incididunt occaecat ad. Anim adipisicing adipisicing pariatur laborum minim. Amet qui et dolore tempor sit dolor anim sint pariatur in do ad velit magna. Enim nulla esse consectetur culpa dolor consequat ex cupidatat.\r\n", 
+    "guid": "f32c6263-47b0-4733-bc03-541e5fae5aff", 
+    "name": "Guerra Church", 
+    "tags": [
+      "irure", 
+      "voluptate", 
+      "duis", 
+      "enim", 
+      "cupidatat", 
+      "quis", 
+      "ut"
+    ], 
+    "gender": "male", 
+    "age": 34, 
+    "friends": [
+      {
+        "id": 0, 
+        "name": "Silva Lynn"
+      }, 
+      {
+        "id": 1, 
+        "name": "Ida Edwards"
+      }, 
+      {
+        "id": 2, 
+        "name": "Head Obrien"
+      }
+    ], 
+    "registered": "2014-01-27T02:22:31 -00:00", 
+    "greeting": "Hello, Guerra Church! You have 2 unread messages.", 
+    "longitude": -84.953355999999999, 
+    "email": "guerrachurch@portaline.com", 
+    "eyeColor": "brown", 
+    "phone": "+1 (975) 478-3552", 
+    "address": "423 Herkimer Court, Naomi, North Carolina, 5888", 
+    "latitude": 19.412983000000001, 
+    "favoriteFruit": "apple", 
+    "balance": "$2,140.39", 
+    "company": "PORTALINE", 
+    "id": 3, 
+    "isActive": true
+  }, 
+  {
+    "picture": "http://placehold.it/32x32", 
+    "about": "Cillum cillum pariatur et minim aute amet elit ut labore dolore amet. Dolor elit ea quis excepteur aliqua exercitation enim eiusmod do incididunt voluptate commodo. Ea consectetur excepteur aliqua excepteur nulla eiusmod. Ipsum voluptate excepteur qui deserunt. Laborum culpa aliqua tempor quis qui exercitation incididunt labore laborum.\r\n", 
+    "guid": "d837710b-0f0f-46c9-b1ab-00e316423a64", 
+    "name": "Rodriguez Schultz", 
+    "tags": [
+      "excepteur", 
+      "sint", 
+      "reprehenderit", 
+      "anim", 
+      "officia", 
+      "officia", 
+      "ipsum"
+    ], 
+    "gender": "male", 
+    "age": 37, 
+    "friends": [
+      {
+        "id": 0, 
+        "name": "Kristie Alvarez"
+      }, 
+      {
+        "id": 1, 
+        "name": "Susanna Preston"
+      }, 
+      {
+        "id": 2, 
+        "name": "Hale Warner"
+      }
+    ], 
+    "registered": "2014-02-25T19:28:55 -00:00", 
+    "greeting": "Hello, Rodriguez Schultz! You have 4 unread messages.", 
+    "longitude": 122.168893, 
+    "email": "rodriguezschultz@incubus.com", 
+    "eyeColor": "blue", 
+    "phone": "+1 (825) 401-2430", 
+    "address": "171 Schweikerts Walk, Inkerman, Idaho, 7624", 
+    "latitude": -26.517575999999998, 
+    "favoriteFruit": "strawberry", 
+    "balance": "$1,570.49", 
+    "company": "INCUBUS", 
+    "id": 4, 
+    "isActive": true
+  }
+]

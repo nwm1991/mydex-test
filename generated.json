@@ -1,0 +1,266 @@
+[
+  {
+    "picture": "http://placehold.it/32x32", 
+    "about": "Officia laborum duis consectetur sit reprehenderit nulla aute est et occaecat. Reprehenderit aute magna mollit mollit laboris culpa pariatur ex dolor exercitation velit esse ex dolor. Ut sint elit ullamco minim elit pariatur. Pariatur officia cillum nostrud et officia culpa aliqua incididunt ipsum exercitation eu anim veniam. Voluptate sunt ex esse ea dolor.\r\n", 
+    "guid": "e3cd2afd-3843-4df8-9d5e-d0bfa44a8f49", 
+    "name": "Tanner Fuller", 
+    "tags": [
+     "cillum",
+    "incididunt",
+    "anim",
+    "deserunt",
+     "exercitation",
+     "laboris",
+     "consequat"
+    ], 
+    "gender": "male", 
+    "age": 24, 
+    "friends": [
+      {
+        "id": 0, 
+        "name": "Madeleine Walton"
+      }, 
+      {
+        "id": 1, 
+        "name": "Marina Rivera"
+      }, 
+      {
+        "id": 2, 
+        "name": "Cunningham Dillon"
+      }
+    ], 
+    "registered": "2014-05-08T14:35:51 -01:00", 
+    "greeting": "Hello, Tanner Fuller! You have 9 unread messages.", 
+    "longitude": 45.762227000000003, 
+    "email": "tannerfuller@bytrex.com", 
+    "eyeColor": "blue", 
+    "phone": "+1 (867) 591-3195", 
+    "address": "150 Hamilton Walk, Virgie, Virgin Islands, 6466", 
+    "latitude": -79.188852999999995, 
+    "favoriteFruit": "banana", 
+    "balance": "$1,203.44", 
+    "company": "BYTREX", 
+    "id": 0, 
+    "isActive": false
+  }, 
+  {
+    "picture": "http://placehold.it/32x32", 
+    "about": "Ut enim incididunt quis consectetur adipisicing laboris veniam ut proident ipsum cupidatat aliquip tempor. Aute esse ullamco sint qui velit. Ea proident adipisicing enim consectetur aliqua officia reprehenderit esse adipisicing sint esse nisi id. Excepteur laboris mollit nulla eu pariatur et Lorem laboris qui. Cupidatat culpa occaecat ipsum quis. Anim anim ullamco ex quis nostrud qui anim veniam.\r\n", 
+    "guid": "384b3d29-40c2-4d97-b9b1-6b189f0c286e", 
+    "name": "Hendrix Fitzgerald", 
+    "tags": [
+      "est", 
+      "culpa", 
+      "aute", 
+      "ad", 
+      "nostrud", 
+      "commodo", 
+      "id"
+    ], 
+    "gender": "male", 
+    "age": 26, 
+    "friends": [
+      {
+        "id": 0, 
+        "name": "Kennedy Brooks"
+      }, 
+      {
+        "id": 1, 
+        "name": "Fitzgerald Morris"
+      }, 
+      {
+        "id": 2, 
+        "name": "Liz Beck"
+      }
+    ], 
+    "registered": "2014-05-19T02:38:47 -01:00", 
+    "greeting": "Hello, Hendrix Fitzgerald! You have 4 unread messages.", 
+    "longitude": 23.417581999999999, 
+    "email": "hendrixfitzgerald@injoy.com", 
+    "eyeColor": "blue", 
+    "phone": "+1 (992) 461-2162", 
+    "address": "943 Little Street, Curtice, Kansas, 4749", 
+    "latitude": 69.977722999999997, 
+    "favoriteFruit": "banana", 
+    "balance": "$2,102.84", 
+    "company": "INJOY", 
+    "id": 1, 
+    "isActive": true
+  }, 
+  {
+    "picture": "http://placehold.it/32x32", 
+    "about": "Deserunt dolore ea esse velit reprehenderit fugiat aute irure id excepteur. Lorem id amet ea pariatur ipsum. Nulla quis aliqua laborum est consequat. Reprehenderit ex proident ex ut voluptate laboris deserunt laborum culpa nulla nisi pariatur. Aute id consequat eu sit labore nulla dolore ut culpa.\r\n", 
+    "guid": "67406423-66d3-4405-b942-8399be12f33b", 
+    "name": "Avery Cross", 
+    "tags": [
+      "anim", 
+      "pariatur", 
+      "adipisicing", 
+      "cillum", 
+      "nulla", 
+      "laborum", 
+      "deserunt"
+    ], 
+    "gender": "male", 
+    "age": 22, 
+    "friends": [
+      {
+        "id": 0, 
+        "name": "Fisher Griffin"
+      }, 
+      {
+        "id": 1, 
+        "name": "Rosalinda Underwood"
+      }, 
+      {
+        "id": 2, 
+        "name": "Katharine Gould"
+      }
+    ], 
+    "registered": "2014-04-15T12:02:14 -01:00", 
+    "greeting": "Hello, Avery Cross! You have 2 unread messages.", 
+    "longitude": -97.392889999999994, 
+    "email": "averycross@idego.com", 
+    "eyeColor": "brown", 
+    "phone": "+1 (928) 493-2049", 
+    "address": "548 Applegate Court, Wheatfields, Palau, 866", 
+    "latitude": 2.5574400000000002, 
+    "favoriteFruit": "banana", 
+    "balance": "$1,777.42", 
+    "company": "IDEGO", 
+    "id": 2, 
+    "isActive": false
+  }, 
+  {
+    "picture": "http://placehold.it/32x32", 
+    "about": "Ad deserunt eiusmod ea consequat mollit ullamco irure sit cillum anim ad adipisicing. Nisi non sunt sit pariatur tempor minim pariatur. Dolore amet pariatur in non. Ipsum et eiusmod eu quis sunt esse sit exercitation magna.\r\n", 
+    "guid": "02b15a13-9071-42b8-90e6-8a233522e807", 
+    "name": "Dawson Rich", 
+    "tags": [
+      "dolore", 
+      "pariatur", 
+      "tempor", 
+      "occaecat", 
+      "aliqua", 
+      "magna", 
+      "ut"
+    ], 
+    "gender": "male", 
+    "age": 28, 
+    "friends": [
+      {
+        "id": 0, 
+        "name": "Celina Berger"
+      }, 
+      {
+        "id": 1, 
+        "name": "Holden Logan"
+      }, 
+      {
+        "id": 2, 
+        "name": "Allison Parrish"
+      }
+    ], 
+    "registered": "2014-04-19T19:45:40 -01:00", 
+    "greeting": "Hello, Dawson Rich! You have 8 unread messages.", 
+    "longitude": 74.074547999999993, 
+    "email": "dawsonrich@aquasseur.com", 
+    "eyeColor": "brown", 
+    "phone": "+1 (934) 524-3414", 
+    "address": "484 Gelston Avenue, Muse, Marshall Islands, 8909", 
+    "latitude": -19.838431, 
+    "favoriteFruit": "banana", 
+    "balance": "$2,029.29", 
+    "company": "AQUASSEUR", 
+    "id": 3, 
+    "isActive": false
+  }, 
+  {
+    "picture": "http://placehold.it/32x32", 
+    "about": "Non consequat occaecat magna aliqua non pariatur Lorem mollit enim labore. Laboris aute voluptate voluptate duis esse mollit pariatur. Fugiat qui anim consectetur enim aute eu aliqua culpa sint est esse eu.\r\n", 
+    "guid": "3490ca5e-2bad-402c-ad75-8ec25944de94", 
+    "name": "Lily Kirk", 
+    "tags": [
+      "ex", 
+      "Lorem", 
+      "consectetur", 
+      "esse", 
+      "amet", 
+      "amet", 
+      "nostrud"
+    ], 
+    "gender": "female", 
+    "age": 29, 
+    "friends": [
+      {
+        "id": 0, 
+        "name": "Brown Brown"
+      }, 
+      {
+        "id": 1, 
+        "name": "Bean Rasmussen"
+      }, 
+      {
+        "id": 2, 
+        "name": "Veronica Barker"
+      }
+    ], 
+    "registered": "2014-03-29T07:54:44 -00:00", 
+    "greeting": "Hello, Lily Kirk! You have 6 unread messages.", 
+    "longitude": -22.360885, 
+    "email": "lilykirk@acium.com", 
+    "eyeColor": "green", 
+    "phone": "+1 (856) 576-2535", 
+    "address": "522 Sackman Street, Rivers, Pennsylvania, 1286", 
+    "latitude": -74.579046000000005, 
+    "favoriteFruit": "banana", 
+    "balance": "$3,889.75", 
+    "company": "ACIUM", 
+    "id": 4, 
+    "isActive": false
+  }, 
+  {
+    "picture": "http://placehold.it/32x32", 
+    "about": "Reprehenderit ullamco id cillum excepteur. Culpa non ea qui eu reprehenderit dolore aliqua quis incididunt. Commodo do dolore dolore sit et amet ex. Labore minim deserunt laborum et est aliqua irure sit laboris commodo in consectetur cupidatat. Exercitation mollit amet non aliquip deserunt adipisicing sint. Irure mollit dolor laboris enim consequat laborum dolore.\r\n", 
+    "guid": "1ca41697-b79d-47a6-bbf2-b041633c0fdf", 
+    "name": "Cooper George", 
+    "tags": [
+      "pariatur", 
+      "culpa", 
+      "ad", 
+      "ad", 
+      "sint", 
+      "amet", 
+      "nisi"
+    ], 
+    "gender": "male", 
+    "age": 24, 
+    "friends": [
+      {
+        "id": 0, 
+        "name": "Herring Booker"
+      }, 
+      {
+        "id": 1, 
+        "name": "Latisha Patrick"
+      }, 
+      {
+        "id": 2, 
+        "name": "Hamilton Pena"
+      }
+    ], 
+    "registered": "2014-01-11T06:19:08 -00:00", 
+    "greeting": "Hello, Cooper George! You have 3 unread messages.", 
+    "longitude": -177.38017099999999, 
+    "email": "coopergeorge@gluid.com", 
+    "eyeColor": "blue", 
+    "phone": "+1 (969) 441-3335", 
+    "address": "918 Madeline Court, Wanamie, Minnesota, 2400", 
+    "latitude": -48.882455, 
+    "favoriteFruit": "strawberry", 
+    "balance": "$3,106.59", 
+    "company": "GLUID", 
+    "id": 5, 
+    "isActive": false
+  }
+]
